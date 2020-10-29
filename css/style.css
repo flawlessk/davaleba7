@@ -6,6 +6,7 @@ header{
     position: fixed;
     top: 0;
     z-index: 100;
+    background-color: yellow;
 }
 .navbar{
     width: 1300px;
@@ -172,7 +173,6 @@ header{
 }
 .picandtext{
     width: 743px;
-    height: 443px;
 }
 .pic{
     float: left;
