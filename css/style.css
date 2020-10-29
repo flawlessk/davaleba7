@@ -143,3 +143,66 @@ header{
     color:#DAF6FC;
     text-decoration: none;
 }
+.secondbox{
+    width: 862px;
+    height: 585px;
+    padding-left: 40px;
+}
+.sticky{
+    position: sticky;
+}
+.sticky h2{
+    font-family: 'Acumin Pro';
+    font-size: 25px;
+    padding: 100px 0 50px 0;
+}
+.stickyone a{
+    text-decoration: none;
+    color: black;
+    width: 288px;
+    height: 25px;
+}
+.stickyone a::before{
+    content: "";
+    display: inline-block;
+    border-radius: 40px;
+    width: 10px;
+    height: 10px;
+    background-color: #6294A2;
+}
+.picandtext{
+    width: 743px;
+    height: 443px;
+}
+.pic{
+    float: left;
+}
+.pic img{
+    width: 171px;
+}
+.textnearpic{
+    padding:10px 0 0;
+}
+.textnearpic h6{
+    font-size: 13px;
+    color: rgb(181, 181, 181);
+    font-family: 'Acumin Pro';
+}
+.textnearpic h3{
+    font-size: 20px;
+    color: #404040;
+    padding: 14px 0 0 0;
+    font-family: 'Acumin Pro';
+}
+.textnearpic p{
+    font-size: 15px;
+    color: #404040;
+    font-family: 'Acumin Pro';
+    padding: 15px 0 15px 0;
+}
+.pic2{
+    float: left;
+}
+.pic2 img{
+    width: 171px;
+}
